@@ -1,0 +1,7 @@
+public class hello{
+
+public sttic void main(String a[]){
+
+	System.out.println("HELLOOOOO");
+}
+}
